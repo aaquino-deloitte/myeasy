@@ -293,7 +293,7 @@
         <showHeader>false</showHeader>
     </screens>
     <startElementReference>CustomerDetails</startElementReference>
-    <status>Draft</status>
+    <status>Active</status>
     <variables>
         <name>varMarket</name>
         <dataType>String</dataType>
